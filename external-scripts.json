@@ -1,6 +1,8 @@
 [
   "hubot-cah",
+  "hubot-currency",
   "hubot-diagnostics",
+  "hubot-forecastio",
   "hubot-help",
   "hubot-heroku-keepalive",
   "hubot-insulter",

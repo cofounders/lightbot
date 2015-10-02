@@ -7,7 +7,9 @@
   "dependencies": {
     "hubot": "^2.16.0",
     "hubot-cah": "*",
+    "hubot-currency": "latest",
     "hubot-diagnostics": "0.0.1",
+    "hubot-forecastio": ">= 1.0.0",
     "hubot-google-images": "^0.2.2",
     "hubot-google-translate": "^0.2.0",
     "hubot-help": "^0.1.1",

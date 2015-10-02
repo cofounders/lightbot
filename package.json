@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "author": "Veronica Ng <veronica@chasinglights.com>",
-  "description": "I’ll build by own theme park. With black jack, and hookers. In fact, forget the pa",
+  "description": "I’ll build by own theme park. With black jack, and hookers. In fact, forget the park!",
   "dependencies": {
     "hubot": "^2.16.0",
     "hubot-diagnostics": "0.0.1",

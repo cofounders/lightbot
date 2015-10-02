@@ -9,6 +9,7 @@
     "hubot-cah": "*",
     "hubot-currency": "latest",
     "hubot-diagnostics": "0.0.1",
+    "hubot-epichal": "^0.1.2",
     "hubot-forecastio": ">= 1.0.0",
     "hubot-google-images": "^0.2.2",
     "hubot-google-translate": "^0.2.0",
@@ -21,7 +22,8 @@
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.16.2",
     "hubot-shipit": "^0.2.0",
-    "hubot-slack": "^3.3.0"
+    "hubot-slack": "^3.3.0",
+    "hubot-sushiyuki": "0.0.2"
   },
   "engines": {
     "node": "0.10.x"

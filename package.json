@@ -6,7 +6,7 @@
   "description": "I’ll build by own theme park. With black jack, and hookers. In fact, forget the park!",
   "dependencies": {
     "hubot": "^2.16.0",
-    "hubot-cah",
+    "hubot-cah": "*",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.2.2",
     "hubot-google-translate": "^0.2.0",

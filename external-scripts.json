@@ -1,18 +1,21 @@
 [
   "hubot-cah",
+  "hubot-calculator",
+  "hubot-cheer",
   "hubot-currency",
   "hubot-diagnostics",
-  "hubot-epichal",
   "hubot-forecastio",
   "hubot-help",
   "hubot-heroku-keepalive",
   "hubot-insulter",
   "hubot-google-images",
   "hubot-google-translate",
+  "hubot-heroku-keepalive",
   "hubot-pugme",
   "hubot-maps",
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-shipit",
-  "hubot-sushiyuki"
+  "hubot-sushiyuki",
+  "hubot-xkcd"
 ]

@@ -15,6 +15,7 @@
   "hubot-maps",
   "hubot-redis-brain",
   "hubot-rules",
+  "hubot-sentiment",
   "hubot-shipit",
   "hubot-sushiyuki",
   "hubot-xkcd"

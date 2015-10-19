@@ -1,1 +1,1 @@
-web: bin/hubot -a slack —enable-slash
+web: bin/hubot -a slack -l lb

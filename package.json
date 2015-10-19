@@ -6,7 +6,7 @@
   "description": "I’ll build by own theme park. With black jack, and hookers. In fact, forget the park!",
   "dependencies": {
     "hubot": "^2.16.0",
-    "hubot-cah": "https://github.com/veronism/hubot-cah/tarball/master#df74920baa90a580bbea4447f91d99c261edf2e8",
+    "hubot-cah": "https://github.com/veronism/hubot-cah#df74920baa90a580bbea4447f91d99c261edf2e8",
     "hubot-calculator": ">= 0.3.0",
     "hubot-cheer": "^0.1.0",
     "hubot-currency": "latest",
